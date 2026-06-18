@@ -1,0 +1,24 @@
+[
+  {
+    "model_label": "0.6b",
+    "instance_type": "gpu",
+    "model_name": "qwen3-0.6b",
+    "num_steps_logged": 50,
+    "avg_seconds_per_step": 2.7964444444444445,
+    "avg_tflops_per_device": 2.758288888888889,
+    "avg_tokens_per_sec_device": 735.1468,
+    "final_loss": 76.83,
+    "final_perplexity": 2.3265903900481303e+33
+  },
+  {
+    "model_label": "1b",
+    "instance_type": "gpu",
+    "model_name": "qwen3-0.6b",
+    "num_steps_logged": 50,
+    "avg_seconds_per_step": 5.347533333333334,
+    "avg_tflops_per_device": 2.4400222222222223,
+    "avg_tokens_per_sec_device": 383.0769111111111,
+    "final_loss": 50.414,
+    "final_perplexity": 7.841097402874692e+21
+  }
+]
