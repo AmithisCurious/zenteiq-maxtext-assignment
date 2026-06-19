@@ -1,0 +1,12 @@
+[
+  {
+    "model": "deepseek-sub1b",
+    "instance_type": "gpu",
+    "num_steps_logged": 50,
+    "avg_seconds_per_step": 2.9224666666666668,
+    "avg_tflops_per_device": 1.1494,
+    "avg_tokens_per_sec_device": 350.86879999999996,
+    "final_loss": 1.786,
+    "final_perplexity": 5.968
+  }
+]
