@@ -42,5 +42,16 @@
     "avg_tokens_per_sec_device": 13761.485888888888,
     "final_loss": 54.025,
     "final_perplexity": 2.9036504634628834e+23
+  },
+  {
+    "model_label": "0.6b",
+    "instance_type": "cpu",
+    "model_name": "qwen3-0.6b",
+    "num_steps_logged": 50,
+    "avg_seconds_per_step": 108.3926,
+    "avg_tflops_per_device": 0.03546666666666667,
+    "avg_tokens_per_sec_device": 9.447577777777779,
+    "final_loss": 54.572,
+    "final_perplexity": 5.0157140290619604e+23
   }
 ]
