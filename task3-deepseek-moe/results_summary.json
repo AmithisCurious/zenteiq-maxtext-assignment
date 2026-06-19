@@ -8,5 +8,15 @@
     "avg_tokens_per_sec_device": 350.86879999999996,
     "final_loss": 1.786,
     "final_perplexity": 5.968
+  },
+  {
+    "model": "deepseek-sub1b",
+    "instance_type": "tpu",
+    "num_steps_logged": 50,
+    "avg_seconds_per_step": 0.20855555555555555,
+    "avg_tflops_per_device": 64.3408888888889,
+    "avg_tokens_per_sec_device": 19641.084777777778,
+    "final_loss": 5.679,
+    "final_perplexity": 292.798
   }
 ]
